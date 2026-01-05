@@ -1,4 +1,4 @@
-# SQL Business Analytics — From Raw Data to Decisions
+# SQL Business Analytics. From Raw Data to Decisions.
 
 This repository showcases how SQL can be used as a primary analytics tool to transform raw data into business-critical insights.
 
